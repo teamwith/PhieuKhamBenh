@@ -1,0 +1,13 @@
+F:\TeamWith\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.csprojAssemblyReference.cache
+F:\TeamWith\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.Add.resources
+F:\TeamWith\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.Thaotac.resources
+F:\TeamWith\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.Login.resources
+F:\TeamWith\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.MainForm.resources
+F:\TeamWith\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.Properties.Resources.resources
+F:\TeamWith\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.csproj.GenerateResource.cache
+F:\TeamWith\PhieuKhamBenh\PhieuKhamBenh\bin\Debug\PhieuKhamBenh.exe.config
+F:\TeamWith\PhieuKhamBenh\PhieuKhamBenh\bin\Debug\PhieuKhamBenh.exe
+F:\TeamWith\PhieuKhamBenh\PhieuKhamBenh\bin\Debug\PhieuKhamBenh.pdb
+F:\TeamWith\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.exe
+F:\TeamWith\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.pdb
+F:\TeamWith\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.InPhieu.resources
