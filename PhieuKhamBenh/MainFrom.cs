@@ -122,8 +122,7 @@ namespace PhieuKhamBenh
         }
         private void BtnNhaplai_Click(object sender, EventArgs e)
         {
-
-
+           
         }
 
         private void RichTextBox11_TextChanged(object sender, EventArgs e)

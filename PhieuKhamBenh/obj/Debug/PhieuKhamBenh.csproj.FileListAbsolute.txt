@@ -11,3 +11,17 @@ F:\TeamWith\PhieuKhamBenh\PhieuKhamBenh\bin\Debug\PhieuKhamBenh.pdb
 F:\TeamWith\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.exe
 F:\TeamWith\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.pdb
 F:\TeamWith\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.InPhieu.resources
+D:\Git_Hub\PhieuKhamBenh\PhieuKhamBenh\bin\Debug\PhieuKhamBenh.exe.config
+D:\Git_Hub\PhieuKhamBenh\PhieuKhamBenh\bin\Debug\PhieuKhamBenh.exe
+D:\Git_Hub\PhieuKhamBenh\PhieuKhamBenh\bin\Debug\PhieuKhamBenh.pdb
+D:\Git_Hub\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.csprojAssemblyReference.cache
+D:\Git_Hub\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.Add.resources
+D:\Git_Hub\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.InPhieu.resources
+D:\Git_Hub\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.Thaotac.resources
+D:\Git_Hub\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.Login.resources
+D:\Git_Hub\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.MainForm.resources
+D:\Git_Hub\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.Properties.Resources.resources
+D:\Git_Hub\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.csproj.GenerateResource.cache
+D:\Git_Hub\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.csproj.CoreCompileInputs.cache
+D:\Git_Hub\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.exe
+D:\Git_Hub\PhieuKhamBenh\PhieuKhamBenh\obj\Debug\PhieuKhamBenh.pdb

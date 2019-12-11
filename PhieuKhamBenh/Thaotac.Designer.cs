@@ -31,7 +31,7 @@
             this.btnTaophieumoi = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.Xemdanhsach = new System.Windows.Forms.Button();
-            this.Quaylai = new System.Windows.Forms.Button();
+            this.btnThoat = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnTaophieumoi
@@ -63,22 +63,22 @@
             this.Xemdanhsach.UseVisualStyleBackColor = true;
             this.Xemdanhsach.Click += new System.EventHandler(this.button1_Click);
             // 
-            // Quaylai
+            // btnThoat
             // 
-            this.Quaylai.Location = new System.Drawing.Point(135, 267);
-            this.Quaylai.Name = "Quaylai";
-            this.Quaylai.Size = new System.Drawing.Size(177, 58);
-            this.Quaylai.TabIndex = 3;
-            this.Quaylai.Text = "Quay lại";
-            this.Quaylai.UseVisualStyleBackColor = true;
-            this.Quaylai.Click += new System.EventHandler(this.Quaylai_Click);
+            this.btnThoat.Location = new System.Drawing.Point(135, 267);
+            this.btnThoat.Name = "btnThoat";
+            this.btnThoat.Size = new System.Drawing.Size(177, 58);
+            this.btnThoat.TabIndex = 3;
+            this.btnThoat.Text = "Thoát";
+            this.btnThoat.UseVisualStyleBackColor = true;
+            this.btnThoat.Click += new System.EventHandler(this.Quaylai_Click);
             // 
             // Thaotac
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(454, 337);
-            this.Controls.Add(this.Quaylai);
+            this.Controls.Add(this.btnThoat);
             this.Controls.Add(this.Xemdanhsach);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnTaophieumoi);
@@ -95,6 +95,6 @@
         private System.Windows.Forms.Button btnTaophieumoi;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button Xemdanhsach;
-        private System.Windows.Forms.Button Quaylai;
+        private System.Windows.Forms.Button btnThoat;
     }
 }

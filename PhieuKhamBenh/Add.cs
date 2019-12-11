@@ -66,15 +66,16 @@ namespace PhieuKhamBenh
             if (KQ)
             {
                 MessageBox.Show("Đăng ký thành công!!!");
+                this.Hide();
+                Login lg = new Login();
+                lg.Show();
             }
             else
             {
                 MessageBox.Show("Dang ky khong thanh cong!!");
             }
 
-            this.Hide();
-            Login lg = new Login();
-            lg.Show();
+            
 
         }
     }

@@ -83,11 +83,20 @@ namespace PhieuKhamBenh
             }
         }
 
-        private void TxtUser_TextChanged(object sender, KeyEventArgs e)
+        private void txtUsername(object sender, KeyEventArgs e)
         {
-            if (e.KeyCode == Keys.Enter)
+            if(e.KeyCode == Keys.Enter)
             {
                 txtPassword.Focus();
+            }
+        }
+
+   
+        private void txtPwd(object sender, KeyEventArgs e)
+        {
+            if(e.KeyCode == Keys.Enter)
+            {
+                btnDangnhap.PerformClick();
             }
         }
     }

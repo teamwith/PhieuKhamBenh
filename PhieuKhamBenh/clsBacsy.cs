@@ -18,7 +18,7 @@ namespace PhieuKhamBenh
         public void Insert_Bacsy()
         {
             SqlConnection con = new SqlConnection();
-            con.ConnectionString = @"server=DESKTOP-19EPU5O\SQLEXPRESS; database = Kham_benh; user id = sa; password = 123";
+            con.ConnectionString = @"server=DESKTOP-RIDTRAN; database = Kham_benh; user id = sa; password = 123";
             con.Open();
             String sql = "INSERT INTO Bac_sy(Bacsy,Donvi) VALUES ("; sql += "N'" + txtBacsy.Text + "',N'" + txtDonvi.Text + "')";
             //Thực thi câu lệnh SQL sử dụng đối tượng Command

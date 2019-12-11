@@ -374,7 +374,7 @@ namespace PhieuKhamBenh
             this.textBox6.Location = new System.Drawing.Point(181, 348);
             this.textBox6.Multiline = true;
             this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(215, 33);
+            this.textBox6.Size = new System.Drawing.Size(215, 38);
             this.textBox6.TabIndex = 17;
             // 
             // textBox5

@@ -32,9 +32,9 @@ namespace PhieuKhamBenh
 
         private void Quaylai_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            Login login = new Login();
-            login.Show();
+            this.Close();
+
+          
         }
     }
 }
